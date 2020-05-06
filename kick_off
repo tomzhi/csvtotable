@@ -1,1 +1,5 @@
-2nd trial for password store
+3rd trial for password store
+
+tips:
+how-to install manually
+python setup.py install
